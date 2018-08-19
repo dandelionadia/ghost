@@ -1,11 +1,8 @@
-/* Colors */
-$color-primary: #EC421F;
-$color-black: #020200;
-$color-gray-light: #F5F5F5;
-$color-gray: #A7A7A7;
+// Color
+$color-primary: #444;
+$color-white: #fff;
+$color-secondary: red;
 
-
-/* Fonts */
-$font-family: -apple-system, BlinkMacSystemFont;
-$font-family-serif: Georgia;
-$font-size-base: 16px;
+$show-home-image: true;
+$home-image: url('.././assets/img/2.jpg');
+$background-opacity: 0.8;
