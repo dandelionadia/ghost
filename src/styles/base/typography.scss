@@ -1,5 +1,5 @@
 @mixin easeOut {
-  transition: all 1.5s ease-out;
+  transition: all 1s ease-out;
 }
 
 @mixin background {
@@ -71,7 +71,8 @@ main {
   }
 
   h2 {
-    border: 1px solid $white-color;
+    border-bottom: 1px solid $white-color;
+    border-top: 1px solid $white-color;
     display: inline;
     padding: 3px 20px;
   }
