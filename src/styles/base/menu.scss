@@ -87,6 +87,14 @@
       // Slide in from bottom
       transform: translate3d(0, 0, 0);
     }
+
+    .portrait {
+      width: 350px;
+      height: 350px;
+      background: url('.././assets/img/9.jpg');
+      border-radius: 50%;
+      border: 3px solid $secondary-color; 
+    }
   }
 
   .nav-link {
